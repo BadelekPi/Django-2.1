@@ -1,0 +1,8 @@
+#making project from terminal
+#-->django-admin startproject django_project
+
+#open a project in a text editor
+#cd django_project/
+
+#show a tree to folder
+#tree
