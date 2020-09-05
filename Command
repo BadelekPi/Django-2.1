@@ -6,3 +6,6 @@
 
 #show a tree to folder
 #tree
+
+#create new app
+python manage.py startapp blog
