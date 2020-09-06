@@ -15,3 +15,7 @@ py -3.8-32 manage.py startapp main
 
 #run server
 py -3.8-32 manage.py runserver
+
+#make a migration
+
+python manage.py makemigrations
