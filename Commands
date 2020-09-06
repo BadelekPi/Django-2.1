@@ -19,3 +19,11 @@ py -3.8-32 manage.py runserver
 #make a migration
 
 python manage.py makemigrations
+
+#ctrl+break to start write in a new line
+
+#adding a shell to server
+python manage.py shell
+
+#create an admin user
+python manage.py createsuperuser
