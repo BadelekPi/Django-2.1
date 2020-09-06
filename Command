@@ -11,3 +11,7 @@
 python manage.py startapp blog
 
 py -3.8-32 manage.py startapp main
+
+
+#run server
+py -3.8-32 manage.py runserver
